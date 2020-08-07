@@ -69,15 +69,7 @@
                 next();
             }
         });
-    }
-
-    function afterPOst(){
-        // Product.aggregate()
-    }
-
-    // apiRoutes.use('/wit_sdn', function(){
-
-    // })
+    } 
 
     
     controller.prototype.list = list;
